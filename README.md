@@ -1,45 +1,188 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Interactive Frontended Development Milestone Project - 2
 
-Welcome Cau-Correa,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+[View the live project here.](project url)
 
-## Gitpod Reminders
+Introduction paragraph
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+![Screenshot Responsive](image path)
 
-`python3 -m http.server`
+## UX
 
-A blue button should appear to click: *Make Public*,
+1 or 2 UX paragraph
 
-Another blue button should appear to click: *Open Browser*.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### User Stories
+#### First time visitor goals:
+* User story
+* User story
 
-A blue button should appear to click: *Make Public*,
+#### Returning visitor goals:
+* User story
+* User story
 
-Another blue button should appear to click: *Open Browser*.
+#### Frequent user goals:
+* User story
+* User story
+* User story
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
+## Features
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+Features descriptions 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Future features
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+Future features
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Technologies Used
+1. [Git](https://git-scm.com/) Was used for version control by utilizing the Gitpod terminal to commit to Git and push it to GitHub. 
+2. [GitHub](https://github.com) Used to store the project after it has been pushed from Git.
+3. [Boostrap](https://getbootstrap.com/) The Bootstrap library was used throughout the project to assist with the responsiveness and styling of the website.
+4. [FontAwesome](https://fontawesome.com/) The project uses Font Awesome icons.
+5. [Google Fonts](https://fonts.google.com/) Google fonts were used to homogenize the project. The font imported to the style.css file was 'Overpass'.
+6. [Google Maps](https://www.google.com/maps) Google maps were used to show Dublin in the contact section.
+7. [jQuery](https://jquery.com/) jQuery was used to make the navbar responsive and also used for the modal dialog.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Design
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+* ### Colour Scheme
 
---------
 
-Happy coding!
+
+* ### Typography
+
+ 
+
+* ### Design choices
+
+
+
+* ### Wireframe.
+
+![mobile wireframe](wireframe path)
+![tablet wireframe](wireframe path
+![desktop wireframe](wireframe path
+
+## Languages used
+* HTML 5
+* CSS 3
+* JavaScript
+
+## Testing
+
+
+
+### Testing User Stories from User Experience (UX) Section
+
+#### First Time Visitor Goals
+##### * User Story 
+1. 
+2. 
+
+![Screenshot UX User Story](path)
+
+3. 
+
+##### * User Story
+1. 
+
+![Screenshot UX User Story](path)
+
+2. 
+
+#### Returning Visitor Goals
+##### * User Story
+1. 
+2. 
+
+![Screenshot User Story](path)
+
+##### * User Story
+1. 
+
+#### Frequent User Goals
+##### * User Story
+1. 
+
+##### * User Story
+1. 
+
+##### * User Story
+1. 
+
+![Screenshot User Story](User Story)
+
+## Fixed Bugs
+
+
+
+## Validation
+
+
+
+* Lighthouse Google Chrome Tools  ????????????
+
+|    |Mobile |Desktop |
+|--- |--- |--- |
+|Performance|69|84|
+Accessibility|92|92|
+Best Practices|86|79|
+SEO|100|100|
+
+
+
+## Deployment
+
+### Git Commands
+After writing the code on Gitpod, I used the Git Commands:
+
+* git add and file or directory name, adds files to the staging area for Git.
+* git commit -m "message", record the changes made to the files to a local repository.
+* git push, sends local commits to the remote repository on GitHub. 
+
+
+### GitHub Pages
+The deployment was deployed to the GitHub pages.
+From my GitHub web page, I open the repository I want to deploy, in this case, “Username-projectname”. 
+Then at the top right of the page click on the 'Settings' link, and scroll down to the GitHub Pages section, 
+I selected the master branch as source, click on save, and I was provided with the following 
+message: Your site is published at (project URL)/
+
+
+### Forking the GitHub Repository
+
+Once you locate the repository you want to fork, at the top right of the page below the right items in the navigation bar the fork button can be located.
+Now you should have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+You find step by step to how to clone a repository from GitHub to your computer on [GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) Cloning a repository from GitHub.
+
+## Credits
+
+### Code
+
+
+### Content
+All content was written by the developer.
+
+### Media
+
+
+
+
+
+
+
+
+### Acknowledgements
+
+My Mentor Reuben Ferrante for his help and feedback.
+
+Tutor support at Code Institute for their support.
+
+To the Slack Community for helping me with my silly questions.
+
